@@ -1,0 +1,9 @@
+COMP 3104 – DevOps (George Brown College)
+
+Course Overview
+
+COMP 3104 is a hands-on course designed to equip students with practical DevOps 
+skills essential for IT professionals working with servers, web applications, and 
+infrastructure. The course provides a deep dive into modern DevOps technologies and 
+methodologies, helping students understand how businesses can either thrive or 
+suffer based on their DevOps strategies.
