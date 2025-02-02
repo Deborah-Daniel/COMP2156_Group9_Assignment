@@ -28,3 +28,11 @@ Travis CI.
 ✔ Understand how DevOps practices enhance team collaboration, transparency, and 
 communication.
 
+To explain the commit "Improved readability and added full form of DevOps", here's the breakdown of the actions involved:
+
+1️⃣ Improved Readability
+Improving readability means making the text easier to read and understand. This can involve:
+
+Breaking down long sentences into shorter ones.
+Using headings or emphasizing important terms for clarity.
+Reorganizing content for better flow.
