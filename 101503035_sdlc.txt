@@ -23,3 +23,8 @@ Cloud platforms and containerization (Docker, Kubernetes) enable flexible deploy
 5. Enhanced Security
 DevSecOps integrates security into the development process rather than treating it as an afterthought.
 Automated security scans and compliance checks prevent vulnerabilities.
+
+1️⃣ Agile Methodology in SDLC
+Agile focuses on iterative development, where work is broken into small, manageable increments called sprints (typically 1-4 weeks).
+Encourages collaboration between developers, testers, and stakeholders for faster feedback and adaptability.
+Popular Agile frameworks: Scrum, Kanban, SAFe.
