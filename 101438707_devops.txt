@@ -1,0 +1,6 @@
+#Comp2156- Develops course
+COMP 2156 is a DevOps course that explores CI/CD processes and infrastructure automation.
+
+1. Comp2156 develops course works with nano to perform text editing thereby enhancing your skills.
+2.COMP2156 involves coursework that requires the use of Git Bash, strengthening familiarity with the Linux version of the command line (CMD) through daily tasks.
+3.Comp2156 develops course performing error fixes and finding solutions.
