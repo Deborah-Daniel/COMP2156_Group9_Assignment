@@ -6,3 +6,7 @@ comp2156 course promotes collabrative work inwhich like minds come together to a
 comp2156 course promotes problem solving, fast thinking.
 
 * how to push information out 
+Tools Used:
+- Gitbash - For Command input
+-Text editors: eg Vim, Notebook, Sublime, etc
+
