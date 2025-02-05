@@ -1,4 +1,4 @@
-#Devops course 3104
+#Devops course 2156
 The goal of George Brown College's COMP 3104 DevOps course is to instruct students on DevOps techniques, tools, and practices. 
 It addresses Infrastructure as Code (IaC), Monitoring and Logging, Collaboration and Communication, and Continuous Integration and Continuous Deployment (CI/CD). 
 To enroll, students must have finished COMP 2154 (System Development Project). 
