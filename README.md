@@ -29,7 +29,11 @@ This repository contains collaborative work for the COMP 2156 DevOps assignment.
 
 
 ## CI/CD Pipeline
-GitHub Actions is used for automated testing and deployment.
+Continuous Integration (CI):
+-The CI pipeline is started each time a member submits a Pull Request (PR) to the 'main' branch 
+ or pushes code to their branch.
+-The pipeline uses automated tests to make sure the modifications to the code don't interfere with already-existing functionality.This covers any important tests defined by the project as well as unit and integration tests.
+-The code is considered safe to merge into the `main` branch if the tests are successful.
 
 ## Branching Strategy
 A branching strategy describes the steps involved in creating, maintaining, and merging branches within a Git repository. Each team member will work on their own branch as part of the project's feature branching architecture. Pull Requests (PRs) are used to integrate branches into the main branch in order to guarantee harmonic collaboration. Each team member must clone the repository, establish a branch using their Student ID and Name format, push the branch to GitHub, make modifications and commit, periodically sync with the main branch, and merge the branch into the main branch in order to create and switch to an individual branch. This method ensures individual workflows, permits code review, minimizes conflicts, and maintains a clean history.
