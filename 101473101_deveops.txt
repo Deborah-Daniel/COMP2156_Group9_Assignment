@@ -1,1 +1,1 @@
-The COMP 3104 DevOps course at George Brown College teaches key DevOps principles, including CI/CD, automation, cloud deployment, and infrastructure as code. Students gain hands-on experience with tools like Git, Docker, and Jenkins, improving collaboration between development and operations teams to deliver software efficiently, securely, and at scale.
+The COMP2156 DevOps course at George Brown College teaches key DevOps principles.
