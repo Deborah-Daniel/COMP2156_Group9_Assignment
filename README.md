@@ -11,6 +11,10 @@
 ## Project Description
 This repository contains collaborative work for the COMP 2156 DevOps assignment.
 
+1. Collaborative Git workflows: Using Git for version control, branching, merging, and handling collaboration between multiple team members.
+2. Branching strategies: Following best practices for organizing code using Git branches (e.g., main, feature, hotfix, develop).
+
+
 ## Setup Instructions
 
 
