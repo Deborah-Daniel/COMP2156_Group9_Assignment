@@ -1,1 +1,2 @@
 Education In the software development life cycle (SDLC), DevOps is essential because it fosters cooperation between the operations and development teams, which results in the quicker delivery of high-caliber software.
+Process automation, less human errors, and more productivity are all made possible by DevOps techniques.
