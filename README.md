@@ -32,4 +32,11 @@ This repository contains collaborative work for the COMP 2156 DevOps assignment.
 GitHub Actions is used for automated testing and deployment.
 
 ## Branching Strategy
-Each member has a branch named STUDENTID-Name, merged via Pull Requests.
+A branching strategy describes the steps involved in creating, maintaining, and merging branches within a Git repository. Each team member will work on their own branch as part of the project's feature branching architecture. Pull Requests (PRs) are used to integrate branches into the main branch in order to guarantee harmonic collaboration. Each team member must clone the repository, establish a branch using their Student ID and Name format, push the branch to GitHub, make modifications and commit, periodically sync with the main branch, and merge the branch into the main branch in order to create and switch to an individual branch. This method ensures individual workflows, permits code review, minimizes conflicts, and maintains a clean history.
+- Every team member uses their student ID and name to create a branch. For instance, 101471893-Khushpreet.
+- Work is done on each branch separately. Changes are made by each member to their specific branch.
+- Pull Requests (PRs) are used to integrate branches into the main branch.
+- Before merging, pull requests are reviewed to make sure the changes are correct and follow to project standards.
+- To prevent conflicts, pull from the main branch to update your branch on a regular basis. For instance, git pull origin main.
+- To keep it current and share changes with others, push your branch to the remote repository.
+- Before merging, solve any merge arguments in the Pull Request.
