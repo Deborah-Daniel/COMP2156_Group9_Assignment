@@ -23,3 +23,4 @@ Course Objectives:
 
 This course equips students with the skills needed to work in DevOps roles, enabling faster and more efficient software development and deployment in real-world environments.
 
+DevOps is a combination of Development (Dev) and Operations (Ops) that focuses on improving collaboration between software developers and IT operations teams. It aims to enhance software development efficiency, automate workflows, and ensure continuous integration and delivery (CI/CD).
