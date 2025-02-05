@@ -18,3 +18,13 @@ Automated testing helps detect and fix bugs early in the development cycle.
 Continuous monitoring ensures issues are identified and resolved in real-time, improving system reliability.
 Infrastructure as Code (IaC) for Scalability
 
+Course Objectives:
+✅ Understand and apply DevOps methodologies to improve software development workflows.
+✅ Learn to automate build, test, and deployment processes using modern DevOps tools.
+✅ Implement version control best practices using Git and GitHub.
+✅ Deploy and manage applications using containerization and orchestration tools.
+✅ Gain hands-on experience with cloud platforms and infrastructure automation.
+✅ Improve software reliability and security through continuous monitoring.
+
+This course equips students with the skills needed to work in DevOps roles, enabling faster and more efficient software development and deployment in real-world environments.
+
