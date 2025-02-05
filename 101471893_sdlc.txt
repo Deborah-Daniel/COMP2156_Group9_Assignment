@@ -1,3 +1,4 @@
+#sdlc
 In the software development cycle, understanding DevOps is essential since it strengthens the bond between the development and operations teams, promotes teamwork, and increases productivity.
 Quicker Development and Implementation Continuous Integration (CI) and Continuous Deployment (CD) are made possible by DevOps, which enables teams to efficiently and rapidly deliver software upgrades. Software release cycles are accelerated and errors are decreased by automating testing and deployment procedures.
 Better Cooperation and Interaction
