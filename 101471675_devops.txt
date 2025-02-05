@@ -1,0 +1,6 @@
+The COMP 2156 DevOps course at George Brown College students gain knowledge of the best practices, protocols, and processes that a DevOps engineer applies in the workplace to boost output in this course.
+Examine and assess the many developer operation implementations that are available, and use an industry-standard toolkit to carry out practical work.
+Using the fundamental duties of DevOps, develop solutions for challenging business issues.
+Recommended Resources
+● DevOps: A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming [Bass etc.)
+Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl Matthias)
