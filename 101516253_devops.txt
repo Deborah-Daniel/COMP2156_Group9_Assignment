@@ -1,0 +1,27 @@
+COMP 3104 – DevOps
+
+Course Overview:
+COMP 3104 is a course focused on DevOps principles, tools, and practices to streamline software development and deployment. The course emphasizes automation, continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and collaboration between development and operations teams.
+
+Topics Covered:
+Introduction to DevOps – Understanding the culture, principles, and benefits of DevOps.
+Version Control with Git & GitHub – Managing code repositories, branching strategies, and collaboration.
+Continuous Integration (CI) & Continuous Deployment (CD) – Setting up automated build and deployment pipelines using Travis CI, Jenkins, or GitHub Actions.
+
+Containerization & Virtualization – Using Docker and Kubernetes for scalable application deployment.
+Infrastructure as Code (IaC) – Automating infrastructure setup with Terraform and Ansible.
+Cloud Computing & Deployment – Working with cloud platforms like AWS, Azure, and Google Cloud.
+Monitoring & Logging – Implementing tools like Prometheus, Grafana, and ELK Stack for system monitoring.
+Security in DevOps – Best practices for securing CI/CD pipelines and applications.
+Course Objectives:
+✅ Understand and apply DevOps methodologies to improve software development workflows.
+✅ Learn to automate build, test, and deployment processes using modern DevOps tools.
+✅ Implement version control best practices using Git and GitHub.
+✅ Deploy and manage applications using containerization and orchestration tools.
+✅ Gain hands-on experience with cloud platforms and infrastructure automation.
+✅ Improve software reliability and security through continuous monitoring. 
+
+This course equips students with the skills needed to work in DevOps roles, enabling faster and more efficient software development and deployment in real-world environments.
+
+DevOps is a combination of Development (Dev) and Operations (Ops) that focuses on improving collaboration between software developers and IT operations teams. It aims to enhance software #
+development efficiency, automate workflows, and ensure continuous integration and delivery (CI/CD).
