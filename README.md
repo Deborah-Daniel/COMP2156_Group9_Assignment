@@ -18,6 +18,14 @@ This repository contains collaborative work for the COMP 2156 DevOps assignment.
 
 
 ## Setup Instructions
+1.Create and set up the GitHub repository.
+2.Add collaborators to the repository.
+3.Clone the repository to your local machine for access and uploads.
+4.Create a separate branch for each team member.
+5.Set up a GitHub Actions workflow for automation.
+6.Commit changes with clear messages for better file tracking.
+7.Merge branches while resolving any conflicts.
+8.Push changes to both individual branches and the main branch.
 
 
 ## CI/CD Pipeline
