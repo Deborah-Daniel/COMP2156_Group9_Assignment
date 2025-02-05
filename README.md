@@ -13,6 +13,8 @@ This repository contains collaborative work for the COMP 2156 DevOps assignment.
 
 1. Collaborative Git workflows: Using Git for version control, branching, merging, and handling collaboration between multiple team members.
 2. Branching strategies: Following best practices for organizing code using Git branches (e.g., main, feature, hotfix, develop).
+3. Continuous Integration/Continuous Delivery (CI/CD): Setting up automated pipelines to run unit tests, build, and deploy code using Travis CI or GitHub Actions. This aims to ensure code quality, automate the testing process, and make the deployment process faster and more reliable.
+4. Infrastructure as Code (IaC): Using tools like Terraform or Ansible for automating infrastructure provisioning and configuration management.
 
 
 ## Setup Instructions
