@@ -36,7 +36,8 @@ Continuous Integration (CI):
 - The pipeline uses automated tests to make sure the modifications to the code don't interfere with already-existing functionality.This covers any important tests defined by the project as well as unit and integration tests.
 
 - The code is considered safe to merge into the `main` branch if the tests are successful.
-Continuous Deployment (CD):
+  
+ Continuous Deployment (CD):
 - When a Pull Request is merged into the main branch, the CD pipeline is activated.
 - The application is built and deployed to the specified environment (such as production or staging) automatically by the pipeline.
 - To update the team on the deployment status, notifications are delivered to them via email or messaging apps (like Slack).
