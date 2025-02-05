@@ -3,5 +3,8 @@ Quicker Development and Implementation Continuous Integration (CI) and Continuou
 Better Cooperation and Interaction
 By encouraging a culture of shared accountability, DevOps makes sure that operational teams, developers, and testers collaborate effectively.
 More effective problem-solving and fewer bottlenecks result from improved collaboration.
-
+Improved Stability and Quality of Software
+Early in the development cycle, automated testing and monitoring aid in finding and resolving problems.
+Before software is deployed, continuous feedback loops make sure it is stable and up to par.
+Effective Use of Resources.
 
