@@ -1,0 +1,4 @@
+COMP 3104 – DevOps
+
+Course Overview:
+COMP 3104 is a course focused on DevOps principles, tools, and practices to streamline software development and deployment. The course emphasizes automation, continuous integration/continuous deployment (CI/CD), infrastructure as code (IaC), and collaboration between development and operations teams.
