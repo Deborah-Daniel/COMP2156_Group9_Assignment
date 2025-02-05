@@ -19,8 +19,9 @@ Course Objectives:
 ✅ Implement version control best practices using Git and GitHub.
 ✅ Deploy and manage applications using containerization and orchestration tools.
 ✅ Gain hands-on experience with cloud platforms and infrastructure automation.
-✅ Improve software reliability and security through continuous monitoring.
+✅ Improve software reliability and security through continuous monitoring. 
 
 This course equips students with the skills needed to work in DevOps roles, enabling faster and more efficient software development and deployment in real-world environments.
 
-DevOps is a combination of Development (Dev) and Operations (Ops) that focuses on improving collaboration between software developers and IT operations teams. It aims to enhance software development efficiency, automate workflows, and ensure continuous integration and delivery (CI/CD).
+DevOps is a combination of Development (Dev) and Operations (Ops) that focuses on improving collaboration between software developers and IT operations teams. It aims to enhance software #
+development efficiency, automate workflows, and ensure continuous integration and delivery (CI/CD).
