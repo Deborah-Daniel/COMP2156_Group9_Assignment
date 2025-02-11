@@ -1,7 +1,7 @@
 # COMP2156_GroupX_Assignment
 
 ## Group Members
-- *Leader:* Deborah Daniel (101438707) - https://github.com/Deborah-Daniel/comp2156.git
+- *Leader:* Deborah Daniel (101438707) -https://github.com/Deborah-Daniel
 - *Member 2:* Harsh wardhan Singh (101503035) - https://github.com/iharsh8055/comp2156.git
 - *Member 3:* Gunel Nasibova (101516253) - https://github.com/guneln/comp2156.git
 - *Member 4:* Gurwinder Singh (101473101) - https://github.com/Gurwinder24055
@@ -18,14 +18,14 @@ This repository contains collaborative work for the COMP 2156 DevOps assignment.
 
 
 ## Setup Instructions
-- Create and set up the GitHub repository.
-- Add collaborators to the repository.
-- Clone the repository to your local machine for access and uploads.
-- Create a separate branch for each team member.
-- Set up a GitHub Actions workflow for automation.
-- Commit changes with clear messages for better file tracking.
-- Merge branches while resolving any conflicts.
-- Push changes to both individual branches and the main branch.
+- Create and initialize a GitHub repository.
+- Invite team members as collaborators.
+- Clone the repository to your local system for easy access and uploads.
+- Assign a dedicated branch to each team member.
+- Configure a GitHub Actions workflow for automation.
+- Use clear commit messages to enhance file tracking.
+- Merge branches while addressing any conflicts.
+- Push updates to both individual branches and the main branch.
 
 
 ## CI/CD Pipeline
