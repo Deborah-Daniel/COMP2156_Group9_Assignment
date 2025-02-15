@@ -1,0 +1,12 @@
+#Learning DevOps
+DevOps practices, such as CI/CD pipelines and automated testing, enhance efficiency and minimize errors.
+COMP2156 course Promotes Learning standard Protocol
+COMP2156 course promotes code learning, editing.
+comp2156 course promotes collabrative work inwhich like minds come together to accomplish a task.
+comp2156 course promotes problem solving, fast thinking.
+
+* how to push information out 
+Tools Used:
+- Gitbash - For Command input
+-Text editors: eg Vim, Notebook, Sublime, etc
+
